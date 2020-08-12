@@ -1,2 +1,2 @@
 # matrix_addition
-ADD two matrices
+C program to add two matrices.
